@@ -64,6 +64,10 @@ PrefabInstance:
       propertyPath: m_AnchoredPosition.x
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 2091060746948347182, guid: f898c7eba6d6c8c87affdc479c3b316e, type: 3}
+      propertyPath: m_vfxSmoke
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 3287878277684609715, guid: f898c7eba6d6c8c87affdc479c3b316e, type: 3}
       propertyPath: m_RootOrder
       value: 0
