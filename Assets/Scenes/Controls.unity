@@ -459,7 +459,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f9b6ef0e72a24bb44a3abf6d53bf64dc, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  m_waitingTime: 5
+  m_waitingTime: 4
   m_sceneName: 4
 --- !u!4 &2120675909
 Transform:
@@ -607,6 +607,14 @@ PrefabInstance:
       propertyPath: m_Camera
       value: 
       objectReference: {fileID: 177165656}
+    - target: {fileID: 8087965290404298957, guid: 24b04c0c708fe9c47ab8b38da96903a3, type: 3}
+      propertyPath: m_text
+      value: VENTURE OFF
+      objectReference: {fileID: 0}
+    - target: {fileID: 8087965290404298959, guid: 24b04c0c708fe9c47ab8b38da96903a3, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 8087965290553171241, guid: 24b04c0c708fe9c47ab8b38da96903a3, type: 3}
       propertyPath: m_Sprite
       value: 

@@ -14,15 +14,15 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CharactersDataSO
   characterSprite: {fileID: 21300000, guid: 398d5a8313122c24a977b9648cc27eb4, type: 3}
   characterShipSprite: {fileID: 21300000, guid: 398d5a8313122c24a977b9648cc27eb4, type: 3}
-  iconSprite: {fileID: 21300000, guid: 143213081105297be85972676d33f655, type: 3}
-  iconDeathSprite: {fileID: 21300000, guid: 5fbf3568e569fae2f92ef19cd2b599f1, type: 3}
+  iconSprite: {fileID: 21300000, guid: 398d5a8313122c24a977b9648cc27eb4, type: 3}
+  iconDeathSprite: {fileID: 21300000, guid: 398d5a8313122c24a977b9648cc27eb4, type: 3}
   characterName: BONES
   spaceshipPrefab: {fileID: 8673732105992480305, guid: 6ee35708ec1f39e4693e0795f6582bf6, type: 3}
   spaceshipScorePrefab: {fileID: 4916945949233725477, guid: 5e1466cc0fdd3c642a598e3df198dd9b, type: 3}
   color: {r: 1, g: 0.806428, b: 0.28773582, a: 1}
   darkColor: {r: 0.6792453, g: 0.65645826, b: 0.34282663, a: 1}
   clientId: 0
-  playerId: 0
-  isSelected: 1
+  playerId: -1
+  isSelected: 0
   enemiesDestroyed: 0
   powerUpsUsed: 0

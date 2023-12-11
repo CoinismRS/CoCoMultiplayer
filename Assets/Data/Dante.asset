@@ -14,8 +14,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::CharactersDataSO
   characterSprite: {fileID: 21300000, guid: 778128310ea7656468855dd0a7c6dacc, type: 3}
   characterShipSprite: {fileID: 21300000, guid: 778128310ea7656468855dd0a7c6dacc, type: 3}
-  iconSprite: {fileID: 21300000, guid: 1193d4c5158fa7975999bb3373de66f1, type: 3}
-  iconDeathSprite: {fileID: 21300000, guid: 8778c06018cf3445c87ee726dd89be7b, type: 3}
+  iconSprite: {fileID: 21300000, guid: 778128310ea7656468855dd0a7c6dacc, type: 3}
+  iconDeathSprite: {fileID: 21300000, guid: 778128310ea7656468855dd0a7c6dacc, type: 3}
   characterName: BLUEY
   spaceshipPrefab: {fileID: 8673732105992480305, guid: c7d4f4a8fe132964b9888445555f49db, type: 3}
   spaceshipScorePrefab: {fileID: 4916945949233725477, guid: fe82c230770585649babf2a77bd6bae7, type: 3}
