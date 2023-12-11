@@ -5,8 +5,17 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 1075371384905455431, guid: f898c7eba6d6c8c87affdc479c3b316e, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1075371384905455431, guid: f898c7eba6d6c8c87affdc479c3b316e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 5
+      objectReference: {fileID: 0}
     - target: {fileID: 3287878277684609715, guid: f898c7eba6d6c8c87affdc479c3b316e, type: 3}
       propertyPath: m_RootOrder
       value: 0
@@ -53,7 +62,14 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3287878277684609727, guid: f898c7eba6d6c8c87affdc479c3b316e, type: 3}
       propertyPath: m_Name
-      value: PlayerShipScore
+      value: PlayerShipScoreVariant_Kat
+      objectReference: {fileID: 0}
+    - target: {fileID: 8586030701048118988, guid: f898c7eba6d6c8c87affdc479c3b316e, type: 3}
+      propertyPath: GlobalObjectIdHash
+      value: 951099334
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f898c7eba6d6c8c87affdc479c3b316e, type: 3}

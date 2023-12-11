@@ -5,11 +5,20 @@ PrefabInstance:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Modification:
+    serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
     - target: {fileID: 517762768397066405, guid: f898c7eba6d6c8c87affdc479c3b316e, type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 1075371384905455431, guid: f898c7eba6d6c8c87affdc479c3b316e, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 1075371384905455431, guid: f898c7eba6d6c8c87affdc479c3b316e, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 5
       objectReference: {fileID: 0}
     - target: {fileID: 1356628968209410418, guid: f898c7eba6d6c8c87affdc479c3b316e, type: 3}
       propertyPath: m_AnchorMax.y
@@ -101,7 +110,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3287878277684609727, guid: f898c7eba6d6c8c87affdc479c3b316e, type: 3}
       propertyPath: m_Name
-      value: PlayerShipScoreVariant_3
+      value: PlayerShipScoreVariant_Sabrina
       objectReference: {fileID: 0}
     - target: {fileID: 4236926853566391632, guid: f898c7eba6d6c8c87affdc479c3b316e, type: 3}
       propertyPath: m_IsActive
@@ -122,7 +131,7 @@ PrefabInstance:
     - target: {fileID: 4455599089423587300, guid: f898c7eba6d6c8c87affdc479c3b316e, type: 3}
       propertyPath: m_Sprite
       value: 
-      objectReference: {fileID: 21300000, guid: 7eb5dad5a6d132c49b96cae3ccb89fd0, type: 3}
+      objectReference: {fileID: 21300000, guid: e457b447255d2ad478bfa77079c79f86, type: 3}
     - target: {fileID: 5171793953963280612, guid: f898c7eba6d6c8c87affdc479c3b316e, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
@@ -200,4 +209,7 @@ PrefabInstance:
       value: 951099334
       objectReference: {fileID: 0}
     m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f898c7eba6d6c8c87affdc479c3b316e, type: 3}
